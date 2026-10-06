@@ -1,0 +1,20 @@
+{
+  "packs": [
+    {
+      "code": "es",
+      "nativeName": "Español",
+      "version": 1,
+      "file": "es-1.zip",
+      "sha256": "9fdf4d479db7893370a02939a0ca52c7e061b542e912d73661a74eeaff575c39",
+      "size": 9548
+    },
+    {
+      "code": "ko",
+      "nativeName": "한국어",
+      "version": 1,
+      "file": "ko-1.zip",
+      "sha256": "89dc7098932cc3a004743c9ed257b36c7845b0b744dd316086f7c5e83b60c0fb",
+      "size": 9740
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "nativeName": "Deutsch",
       "version": 1,
       "file": "de-1.zip",
-      "sha256": "0fd50b8a2a14f86b32df11ac25b8660a6e79b3b7de5abbaf270d2044073f2adc",
+      "sha256": "5f2d4a978f9019e144f9d5d109fbfec6a4db2356653f82d88f618d3318f41e37",
       "size": 10156
     },
     {
@@ -13,7 +13,7 @@
       "nativeName": "Español",
       "version": 2,
       "file": "es-2.zip",
-      "sha256": "208f349953eae1728f28de69e651396026bdc5fc7d86b22813612619070f2a3c",
+      "sha256": "e9e7388cc4437dbc31a55e71c94b1e4f726db4002645c2adb52d50d67c64de23",
       "size": 9795
     },
     {
@@ -21,15 +21,23 @@
       "nativeName": "Français",
       "version": 1,
       "file": "fr-1.zip",
-      "sha256": "d4bc1ce13a414a632067b7ab90325c5699f98f2b4ccebd77d78c6a4ab8e89229",
+      "sha256": "8a4c457f98faf84bc5f1b8b7bd6a9e055bf740fef9e6d19494e12929c8f56ccd",
       "size": 10129
+    },
+    {
+      "code": "it",
+      "nativeName": "Italiano",
+      "version": 1,
+      "file": "it-1.zip",
+      "sha256": "0068f42dcf95a3817c18ebb5e1c5377beefe7fdd7e8438e22532470b1a04b4ec",
+      "size": 9744
     },
     {
       "code": "ko",
       "nativeName": "한국어",
       "version": 2,
       "file": "ko-2.zip",
-      "sha256": "6673c498292fc10595705de64293c3edbc1b128ee035d0f5d947582ef392da3f",
+      "sha256": "b3af2f05daadf8085e1204981330efc104ac76819f8809018dd6dafc3e1dc9e3",
       "size": 9985
     },
     {
@@ -37,7 +45,7 @@
       "nativeName": "Português",
       "version": 1,
       "file": "pt-1.zip",
-      "sha256": "015380747d29347f790b5a694709a36c5a96d8dce1c3808eef63b885def7cbdf",
+      "sha256": "c3a1598b822557214a5c72ffe5f40bce1163d94e2c7d9b6525ba058af13ce57a",
       "size": 9801
     }
   ]

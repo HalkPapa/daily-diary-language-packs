@@ -1,11 +1,19 @@
 {
   "packs": [
     {
+      "code": "de",
+      "nativeName": "Deutsch",
+      "version": 1,
+      "file": "de-1.zip",
+      "sha256": "b311ff4fafdd457d1e58982aa758b2310b1615c49987ee3de068cddbe16e50da",
+      "size": 10156
+    },
+    {
       "code": "es",
       "nativeName": "Español",
       "version": 2,
       "file": "es-2.zip",
-      "sha256": "e3db1a6b806f29874fd17474656e5d7301e4cff3fb7e56fb4f095ced85df1601",
+      "sha256": "4cb3ddbea4ef9b951c51940f032a264d0ca977dab4ad8ae5518dbbc478acc819",
       "size": 9795
     },
     {
@@ -13,7 +21,7 @@
       "nativeName": "한국어",
       "version": 2,
       "file": "ko-2.zip",
-      "sha256": "82291eae278d85e00b67ad6c7bda2d74883a5b9788ccbad56af52e9ba5310f23",
+      "sha256": "5f3f619d8b7e1d5805c8c13ec8cc2a7e1fa052ea5778740b8c807f6f6dbfc01b",
       "size": 9985
     }
   ]

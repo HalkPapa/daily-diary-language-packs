@@ -5,7 +5,7 @@
       "nativeName": "Deutsch",
       "version": 1,
       "file": "de-1.zip",
-      "sha256": "e27a4b1a83a96ef94a7aa7b1880d8d352710782345ff6fe465c39e2a3d0b5570",
+      "sha256": "0fd50b8a2a14f86b32df11ac25b8660a6e79b3b7de5abbaf270d2044073f2adc",
       "size": 10156
     },
     {
@@ -13,7 +13,7 @@
       "nativeName": "Español",
       "version": 2,
       "file": "es-2.zip",
-      "sha256": "167e51395345384f15cb325a0397da37aa8e5195d66c389e88361f71c08f01c5",
+      "sha256": "208f349953eae1728f28de69e651396026bdc5fc7d86b22813612619070f2a3c",
       "size": 9795
     },
     {
@@ -21,7 +21,7 @@
       "nativeName": "Français",
       "version": 1,
       "file": "fr-1.zip",
-      "sha256": "6d2572fc00a8341331ffbd6fb5dec9522506d1074ffb354544dcd897501ef68e",
+      "sha256": "d4bc1ce13a414a632067b7ab90325c5699f98f2b4ccebd77d78c6a4ab8e89229",
       "size": 10129
     },
     {
@@ -29,8 +29,16 @@
       "nativeName": "한국어",
       "version": 2,
       "file": "ko-2.zip",
-      "sha256": "0265fc2e6fe060ff6b874e4a5ea40a8f872a4ae60dbfc1fad9da2b16be47ce7a",
+      "sha256": "6673c498292fc10595705de64293c3edbc1b128ee035d0f5d947582ef392da3f",
       "size": 9985
+    },
+    {
+      "code": "pt",
+      "nativeName": "Português",
+      "version": 1,
+      "file": "pt-1.zip",
+      "sha256": "015380747d29347f790b5a694709a36c5a96d8dce1c3808eef63b885def7cbdf",
+      "size": 9801
     }
   ]
 }

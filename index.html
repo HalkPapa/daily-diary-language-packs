@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>日々日記</title>
+<meta name="description" content="1日の中で最も印象に残った1つの瞬間だけを残す、シンプルな日記アプリ">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  :root {
+    --bg: #faf6ec; --surface: #ffffff; --ink: #2b211a; --ink-muted: #6b5a45;
+    --leather: #5c2a2a; --leather-deep: #3d1c1c; --gold: #b8944f; --border: #e6dcc6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1712; --surface: #241d16; --ink: #ece3d4; --ink-muted: #b8a98c;
+      --leather: #d9a7a7; --leather-deep: #e9c383; --gold: #e9c383; --border: #3a2f22;
+    }
+  }
+  body { background: var(--bg); color: var(--ink); font-family: "Zen Kaku Gothic New", "Hiragino Sans", sans-serif; line-height: 1.85; padding-inline: 20px; }
+  .page { max-width: 640px; margin: 0 auto; padding-block: 64px 80px; }
+  .brand { display: flex; align-items: center; gap: 10px; margin-bottom: 40px; color: var(--leather); }
+  .brand .mark { font-family: "Shippori Mincho", serif; font-weight: 700; font-size: 1.2rem; border: 1.5px solid var(--gold); border-radius: 8px; padding: 5px 11px; letter-spacing: .04em; }
+  .brand .name { font-family: "Zen Kaku Gothic New", sans-serif; font-weight: 500; font-size: 1rem; color: var(--ink-muted); }
+  h1 { font-family: "Shippori Mincho", serif; font-weight: 700; font-size: clamp(1.8rem, 5vw, 2.4rem); line-height: 1.5; margin: 0 0 20px; color: var(--ink); text-wrap: balance; }
+  p.lede { font-size: 1.05rem; color: var(--ink); margin-bottom: 36px; }
+  .features { display: flex; flex-direction: column; gap: 14px; margin-bottom: 44px; }
+  .feature { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; font-size: .92rem; }
+  .feature strong { display: block; color: var(--leather-deep); font-weight: 700; margin-bottom: 4px; }
+  .feature span { color: var(--ink-muted); }
+  .links { display: flex; flex-wrap: wrap; gap: 12px; }
+  .links a {
+    display: inline-block; font-size: .88rem; font-weight: 700; color: var(--leather-deep);
+    border: 1px solid var(--gold); border-radius: 999px; padding: 9px 18px; text-decoration: none;
+  }
+  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--border); font-size: .8rem; color: var(--ink-muted); }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="brand"><span class="mark">日々</span><span class="name">Daily Diary</span></div>
+
+  <h1>1日のうち、いちばん心に残った<br>ひとつの瞬間だけを。</h1>
+  <p class="lede">「日々日記」は、1日1行から始められるシンプルな日記アプリです。写真・動画・音声、気分、天気、位置情報も添えられます。日記データはすべて端末内に保存され、サーバーへのアカウント登録は不要です。</p>
+
+  <div class="features">
+    <div class="feature"><strong>1日1行、無理なく続く</strong><span>一言と気分スタンプ・タグ・天気を添えるだけ。忙しい日でも続けやすい設計です。</span></div>
+    <div class="feature"><strong>見開きの本のように読み返せる</strong><span>革装丁の日記帳のような画面で、ページをめくる感覚で過去の記録を読み返せます。</span></div>
+    <div class="feature"><strong>プライバシーを大切に</strong><span>アカウント登録・サーバー同期は不要。広告やアクセス解析のSDKも組み込んでいません。</span></div>
+  </div>
+
+  <div class="links">
+    <a href="./privacy.html">プライバシーポリシー</a>
+    <a href="./terms.html">利用規約</a>
+    <a href="mailto:dailydiary-support@googlegroups.com">お問い合わせ</a>
+  </div>
+
+  <footer>© 2026 日々日記 / Daily Diary</footer>
+</div>
+</body>
+</html>

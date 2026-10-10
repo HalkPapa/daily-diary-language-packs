@@ -5,7 +5,7 @@
       "nativeName": "العربية",
       "version": 1,
       "file": "ar-1.zip",
-      "sha256": "1b0a32ac2a877f7ac25db8a67eca4eb8d560eccd918a6bc9dad0cf7bdd2dc69b",
+      "sha256": "d92a64702f24649cf67400d4e4491972f7c62f0946125d970485f85c13f69ea5",
       "size": 10814
     },
     {
@@ -13,7 +13,7 @@
       "nativeName": "Deutsch",
       "version": 1,
       "file": "de-1.zip",
-      "sha256": "338af220a7c2316729e5040fcaa49fb29b7e9f085bd0b9d24dce2f1a01d3e079",
+      "sha256": "9a21611c089569922673fb76baa9cb542d24e5d0c711314c2fd78d647abb87cb",
       "size": 10156
     },
     {
@@ -21,7 +21,7 @@
       "nativeName": "Español",
       "version": 2,
       "file": "es-2.zip",
-      "sha256": "c349af52986ccc4a2ab8cf59addc4cee4d5ae863dad81cd38bba578769c9cbcc",
+      "sha256": "4344909789ffb20dc432d6e0d3a28723cccac908dd0a60b2849c39391e632cff",
       "size": 9795
     },
     {
@@ -29,15 +29,31 @@
       "nativeName": "Français",
       "version": 1,
       "file": "fr-1.zip",
-      "sha256": "54a54bbedf4f94c3904ce9f3d338ea77391a56310789612f7df0cb044415ac14",
+      "sha256": "40568f9a96d48d623c0c2572804a11fdc3a90bb0c490fe707c8f5454c616e1ea",
       "size": 10129
+    },
+    {
+      "code": "hi",
+      "nativeName": "हिन्दी",
+      "version": 1,
+      "file": "hi-1.zip",
+      "sha256": "9abefd7b6b4f0c5f73dfb4cd5edf88001e9b33f96fd975d54422d3a3cbd69103",
+      "size": 11694
+    },
+    {
+      "code": "id",
+      "nativeName": "Bahasa Indonesia",
+      "version": 1,
+      "file": "id-1.zip",
+      "sha256": "9dff29339373097d2ab58497a95855b94fc4733324a53cab40a5c898586ea01c",
+      "size": 9551
     },
     {
       "code": "it",
       "nativeName": "Italiano",
       "version": 1,
       "file": "it-1.zip",
-      "sha256": "72f916671966014eb9c5c08a626d12f48341ef063f2d0a25bad4b0f69e20ef7c",
+      "sha256": "c0b95bdd91bd74690f09986bcff6a5d72ca5110ab1a2174c6816f16b477a42fc",
       "size": 9744
     },
     {
@@ -45,7 +61,7 @@
       "nativeName": "한국어",
       "version": 2,
       "file": "ko-2.zip",
-      "sha256": "f6713a3a32e458e513020c3e12f5042d9586f3edf89d9e6dad49a239529fd0fc",
+      "sha256": "82a2728f737242fe67dd0cbc00824af0349ca4cb36b0e0d6cda4cef4135e1278",
       "size": 9985
     },
     {
@@ -53,15 +69,47 @@
       "nativeName": "Português",
       "version": 1,
       "file": "pt-1.zip",
-      "sha256": "c526ff901ab682e0b4bda05b2d7b51c1ee5ec9259ba801dac2254bd45a186f64",
+      "sha256": "b3c1febbdcec3d980e1ccc8823ac242fef79d969fb5e23786c7c22caf9f0a5b8",
       "size": 9801
+    },
+    {
+      "code": "ru",
+      "nativeName": "Русский",
+      "version": 1,
+      "file": "ru-1.zip",
+      "sha256": "ffcccc2ac7023e9f2ecc319020811eaac2dd8aa230e1fe5cd5ba141bfc2d9e92",
+      "size": 12078
+    },
+    {
+      "code": "th",
+      "nativeName": "ไทย",
+      "version": 1,
+      "file": "th-1.zip",
+      "sha256": "2203c50335c629a2ad0ab8d025f618d62b7156c46b17fb6cbc13050a054fd48f",
+      "size": 11201
+    },
+    {
+      "code": "tr",
+      "nativeName": "Türkçe",
+      "version": 1,
+      "file": "tr-1.zip",
+      "sha256": "149da2547cc867759a55cc64e9ffae6ae5c3c3fa930b493dc0e182e37d860aca",
+      "size": 10201
+    },
+    {
+      "code": "vi",
+      "nativeName": "Tiếng Việt",
+      "version": 1,
+      "file": "vi-1.zip",
+      "sha256": "dd03af63dfbb3bc56b0ceda694c4ddf0fb92b4439b8cd9d1776ee752a2668bd2",
+      "size": 10213
     },
     {
       "code": "zh-Hans",
       "nativeName": "简体中文",
       "version": 1,
       "file": "zh-Hans-1.zip",
-      "sha256": "06faf2219447d666d47d74cde675ff20c3ac3d746654b95682afdddea316f76e",
+      "sha256": "be86370dbd696b8d79415db188a0bf90a7a0862591d95c2d433e07b223b7b7bb",
       "size": 9588
     },
     {
@@ -69,7 +117,7 @@
       "nativeName": "繁體中文",
       "version": 1,
       "file": "zh-Hant-1.zip",
-      "sha256": "b97696a5aa145edfbadec7063a03737517587dc7948fdaf4e46728c5d2bae864",
+      "sha256": "c858a7480adb3197b8adf7d49e73818624c7cca5e13b0cd9acb909c1c1106126",
       "size": 9611
     }
   ]

@@ -1,11 +1,19 @@
 {
   "packs": [
     {
+      "code": "ar",
+      "nativeName": "العربية",
+      "version": 1,
+      "file": "ar-1.zip",
+      "sha256": "1b0a32ac2a877f7ac25db8a67eca4eb8d560eccd918a6bc9dad0cf7bdd2dc69b",
+      "size": 10814
+    },
+    {
       "code": "de",
       "nativeName": "Deutsch",
       "version": 1,
       "file": "de-1.zip",
-      "sha256": "018a7c240100bda32ccefeb8f7d35d17df3e470198240d7bb76542bfc680db2f",
+      "sha256": "338af220a7c2316729e5040fcaa49fb29b7e9f085bd0b9d24dce2f1a01d3e079",
       "size": 10156
     },
     {
@@ -13,7 +21,7 @@
       "nativeName": "Español",
       "version": 2,
       "file": "es-2.zip",
-      "sha256": "d20b2fe9990052261eacad303a0286a857d65d7d5bbe8b8f570f94ea89010896",
+      "sha256": "c349af52986ccc4a2ab8cf59addc4cee4d5ae863dad81cd38bba578769c9cbcc",
       "size": 9795
     },
     {
@@ -21,7 +29,7 @@
       "nativeName": "Français",
       "version": 1,
       "file": "fr-1.zip",
-      "sha256": "365f68dd3b9088b48203022c213e12d715dd592101600234b6bc98bf2ecda99c",
+      "sha256": "54a54bbedf4f94c3904ce9f3d338ea77391a56310789612f7df0cb044415ac14",
       "size": 10129
     },
     {
@@ -29,7 +37,7 @@
       "nativeName": "Italiano",
       "version": 1,
       "file": "it-1.zip",
-      "sha256": "d9418b525ba116ebfc1cb1fcef5d7b7cc69fe2ef51e878f7b97694f682a65630",
+      "sha256": "72f916671966014eb9c5c08a626d12f48341ef063f2d0a25bad4b0f69e20ef7c",
       "size": 9744
     },
     {
@@ -37,7 +45,7 @@
       "nativeName": "한국어",
       "version": 2,
       "file": "ko-2.zip",
-      "sha256": "4997a933d97662d14ece1976eca81a001bdd20b5faa627f884f9718bae595e4e",
+      "sha256": "f6713a3a32e458e513020c3e12f5042d9586f3edf89d9e6dad49a239529fd0fc",
       "size": 9985
     },
     {
@@ -45,7 +53,7 @@
       "nativeName": "Português",
       "version": 1,
       "file": "pt-1.zip",
-      "sha256": "131a2ba865e29232562b71889ef524cd8538b136cba4453feff65242d5f63007",
+      "sha256": "c526ff901ab682e0b4bda05b2d7b51c1ee5ec9259ba801dac2254bd45a186f64",
       "size": 9801
     },
     {
@@ -53,7 +61,7 @@
       "nativeName": "简体中文",
       "version": 1,
       "file": "zh-Hans-1.zip",
-      "sha256": "9b6590e5bf079c8ab729143c75bc7e441fcf7b9256a41f7a25919333e85f7eea",
+      "sha256": "06faf2219447d666d47d74cde675ff20c3ac3d746654b95682afdddea316f76e",
       "size": 9588
     },
     {
@@ -61,7 +69,7 @@
       "nativeName": "繁體中文",
       "version": 1,
       "file": "zh-Hant-1.zip",
-      "sha256": "56b0dc7b9057bf42aff2a7a9327a21535fb09c2c79eb0938412b31576928bb5a",
+      "sha256": "b97696a5aa145edfbadec7063a03737517587dc7948fdaf4e46728c5d2bae864",
       "size": 9611
     }
   ]
